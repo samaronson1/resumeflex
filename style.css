@@ -1,0 +1,36 @@
+.container {
+width: 1200px;
+Margin: 0 auto;
+}
+
+.row {
+display: flex;
+}
+
+.col {
+flex: 1;
+}
+
+.head {
+display: flex;
+justify-content: space-between;
+max-width: 960px;
+margin: auto;
+}
+.head-box {
+flex: 1;
+background-color: #1f262c;
+margin: 15px 8px;
+padding: 30px;
+border-radius: 6px;
+color: #fff;
+}
+.head-bigbox {
+flex: 1;
+background-color: #1c662c;
+margin: 15px 8px;
+padding: 30px;
+border-radius: 6px;
+color: #fff;
+}
+
